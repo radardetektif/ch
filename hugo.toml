@@ -1,7 +1,11 @@
-baseURL = 'https://channelliving.com/'
+baseURL = 'https://channelliving.com'
 languageCode = 'id'
 title = 'Website Saya'
 theme = 'PaperMod'
+
+# Asset configuration for proper CSS loading
+canonifyURLs = true
+relativeURLs = false
 
 [params]
   env = "production"
