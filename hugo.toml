@@ -1,6 +1,6 @@
 baseURL = 'https://channelliving.com'
-languageCode = 'id'
-title = 'Website Saya'
+languageCode = 'en'
+title = 'Channel Living'
 theme = 'PaperMod'
 
 # Asset configuration for proper CSS loading
@@ -9,10 +9,14 @@ relativeURLs = false
 
 [params]
   env = "production"
-  title = "Website Saya"
-  description = "Website pribadi menggunakan Hugo dan PaperMod theme"
-  keywords = ["blog", "portfolio", "hugo", "papermod"]
-  author = "Nama Anda"
+  title = "Channel Living"
+  description = "A modern lifestyle and technology blog powered by Hugo and PaperMod theme"
+  keywords = ["lifestyle", "technology", "blog", "modern living", "hugo", "papermod"]
+  author = "Channel Living"
+  
+  # SEO improvements
+  images = ["images/channel-living-og.jpg"]
+  DateFormat = "January 2, 2006"
   
   defaultTheme = "auto"
   disableThemeToggle = false
@@ -30,12 +34,12 @@ relativeURLs = false
   comments = false
   hidemeta = false
   hideSummary = false
-  showtoc = false
+  showtoc = true
   tocopen = false
 
   [params.homeInfoParams]
-    Title = "Halo! 👋"
-    Content = "Selamat datang di website saya. Di sini saya berbagi tentang teknologi, programming, dan hal-hal menarik lainnya."
+    Title = "Welcome! 👋"
+    Content = "Welcome to Channel Living - your destination for modern lifestyle, technology insights, and inspiring content."
 
   [[params.socialIcons]]
     name = "github"
@@ -58,6 +62,23 @@ relativeURLs = false
     weight = 20
 
 pygmentsUseClasses = true
+
+# SEO and performance optimizations
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = true
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
 [markup]
   [markup.highlight]
     noClasses = false
+    lineNos = true
+    lineNumbersInTable = true
+    style = "github"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

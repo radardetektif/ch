@@ -1,48 +1,48 @@
 +++
 date = '2025-10-05T21:32:34+07:00'
 draft = false
-title = 'Selamat Datang di Website Saya!'
-description = 'Post pertama di website Hugo dengan theme PaperMod'
-tags = ['hugo', 'papermod', 'blog']
-categories = ['teknologi']
+title = 'Welcome to Channel Living!'
+description = 'First post on our Hugo website with PaperMod theme'
+tags = ['hugo', 'papermod', 'blog', 'lifestyle', 'technology']
+categories = ['technology']
 +++
 
-# Selamat Datang! 🎉
+# Welcome to Channel Living! 🎉
 
-Ini adalah post pertama di website saya yang dibuat menggunakan **Hugo** dengan theme **PaperMod**. <mcreference link="https://github.com/adityatelange/hugo-PaperMod" index="0">0</mcreference>
+This is the first post on our website built using **Hugo** with the **PaperMod** theme. We're excited to share modern lifestyle and technology insights with you.
 
-## Tentang Website Ini
+## About This Website
 
-Website ini dibuat menggunakan:
-- **Hugo** - Static Site Generator yang cepat
-- **PaperMod Theme** - Theme yang clean dan responsive
-- **GitHub Pages** - Untuk hosting gratis
+This website is built using:
+- **Hugo** - A fast static site generator
+- **PaperMod Theme** - A clean and responsive theme
+- **GitHub Pages** - For free hosting
 
-## Fitur-fitur PaperMod
+## PaperMod Features
 
-Theme PaperMod memiliki banyak fitur menarik: <mcreference link="https://github.com/adityatelange/hugo-PaperMod" index="0">0</mcreference>
+The PaperMod theme offers many amazing features:
 
-- ☄️ **Fast** - Loading yang sangat cepat
-- ☁️ **Fluent** - Navigasi yang smooth
-- 🌙 **Dark/Light Mode** - Mendukung tema gelap dan terang
-- 📱 **Responsive** - Tampil sempurna di semua device
-- 🔍 **Search** - Fitur pencarian dengan Fuse.js
-- 📊 **SEO Friendly** - Optimized untuk search engine
+- ☄️ **Fast** - Lightning-fast loading speeds
+- ☁️ **Fluent** - Smooth navigation experience
+- 🌙 **Dark/Light Mode** - Support for both dark and light themes
+- 📱 **Responsive** - Perfect display on all devices
+- 🔍 **Search** - Built-in search functionality with Fuse.js
+- 📊 **SEO Friendly** - Optimized for search engines
 
-## Kode Contoh
+## Code Example
 
-Berikut contoh kode JavaScript:
+Here's a JavaScript code example:
 
 ```javascript
 function sayHello(name) {
-    console.log(`Halo, ${name}! Selamat datang di website saya.`);
+    console.log(`Hello, ${name}! Welcome to Channel Living.`);
 }
 
-sayHello("Pengunjung");
+sayHello("Visitor");
 ```
 
-## Kesimpulan
+## Conclusion
 
-Dengan Hugo dan PaperMod, membuat website static menjadi sangat mudah dan hasilnya professional. Website ini akan di-deploy ke GitHub Pages dengan custom domain.
+With Hugo and PaperMod, creating a static website becomes incredibly easy while maintaining a professional look. This website will be deployed to GitHub Pages with a custom domain.
 
-Terima kasih sudah berkunjung! 🙏
+Thank you for visiting! 🙏

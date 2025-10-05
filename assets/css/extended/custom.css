@@ -1,0 +1,98 @@
+/* Custom CSS for Channel Living */
+
+/* Fix header width to match main content */
+.header {
+    max-width: var(--main-width);
+    margin: 0 auto;
+    padding: 0 var(--gap);
+}
+
+/* Adjust heading sizes for better readability */
+h1 {
+    font-size: 2rem !important;
+    line-height: 1.3;
+}
+
+h2 {
+    font-size: 1.6rem !important;
+    line-height: 1.4;
+}
+
+h3 {
+    font-size: 1.4rem !important;
+    line-height: 1.4;
+}
+
+h4 {
+    font-size: 1.2rem !important;
+    line-height: 1.5;
+}
+
+h5 {
+    font-size: 1.1rem !important;
+    line-height: 1.5;
+}
+
+h6 {
+    font-size: 1rem !important;
+    line-height: 1.5;
+    font-weight: 600;
+}
+
+/* Improve post entry cards styling */
+.post-entry {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    margin-bottom: 1.5rem;
+}
+
+.post-entry:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Improve typography and spacing */
+.post-content p {
+    margin-bottom: 1rem;
+    line-height: 1.7;
+}
+
+.post-content ul, .post-content ol {
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+}
+
+.post-content li {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+}
+
+/* Better code block styling */
+.post-content pre {
+    border-radius: 6px;
+    margin: 1.5rem 0;
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.8rem !important;
+    }
+    
+    h2 {
+        font-size: 1.4rem !important;
+    }
+    
+    h3 {
+        font-size: 1.2rem !important;
+    }
+    
+    h4 {
+        font-size: 1.1rem !important;
+    }
+    
+    h5, h6 {
+        font-size: 1rem !important;
+    }
+}
