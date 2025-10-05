@@ -1,0 +1,59 @@
+baseURL = 'https://yourusername.github.io/your-repo-name/'
+languageCode = 'id'
+title = 'Website Saya'
+theme = 'PaperMod'
+
+[params]
+  env = "production"
+  title = "Website Saya"
+  description = "Website pribadi menggunakan Hugo dan PaperMod theme"
+  keywords = ["blog", "portfolio", "hugo", "papermod"]
+  author = "Nama Anda"
+  
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = "Halo! 👋"
+    Content = "Selamat datang di website saya. Di sini saya berbagi tentang teknologi, programming, dan hal-hal menarik lainnya."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/"
+
+[menu]
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+
+pygmentsUseClasses = true
+[markup]
+  [markup.highlight]
+    noClasses = false

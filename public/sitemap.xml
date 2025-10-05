@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/your-repo-name/tags/blog/</loc>
+    <lastmod>2025-10-05T21:32:34+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/your-repo-name/categories/</loc>
+    <lastmod>2025-10-05T21:32:34+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/your-repo-name/tags/hugo/</loc>
+    <lastmod>2025-10-05T21:32:34+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/your-repo-name/tags/papermod/</loc>
+    <lastmod>2025-10-05T21:32:34+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/your-repo-name/posts/</loc>
+    <lastmod>2025-10-05T21:32:34+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/your-repo-name/posts/my-first-post/</loc>
+    <lastmod>2025-10-05T21:32:34+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/your-repo-name/tags/</loc>
+    <lastmod>2025-10-05T21:32:34+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/your-repo-name/categories/teknologi/</loc>
+    <lastmod>2025-10-05T21:32:34+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/your-repo-name/</loc>
+    <lastmod>2025-10-05T21:32:34+07:00</lastmod>
+  </url>
+</urlset>
