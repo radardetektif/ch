@@ -15,6 +15,11 @@
     padding: 0 var(--gap) !important;
 }
 
+/* Override logo and menu margin */
+.logo,#menu {
+    display: flex;
+}
+
 /* Reduce heading sizes significantly */
 h1, .post-title, .page-header h1 {
     font-size: 1.75rem !important;
