@@ -60,21 +60,6 @@ relativeURLs = false
     name = "Tags"
     url = "/tags/"
     weight = 20
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 30
-  [[menu.main]]
-    identifier = "privacy"
-    name = "Privacy Policy"
-    url = "/privacy-policy/"
-    weight = 40
-  [[menu.main]]
-    identifier = "terms"
-    name = "Terms"
-    url = "/terms-and-conditions/"
-    weight = 50
 
 pygmentsUseClasses = true
 
