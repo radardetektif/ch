@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://channelliving.com/sitemap.xml
+
+# Allow all search engines to crawl the entire site
+# Disallow crawling of admin or private directories (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow crawling of important pages
+Allow: /posts/
+Allow: /categories/
+Allow: /tags/
+
+# Crawl delay (optional - helps prevent server overload)
+Crawl-delay: 1
