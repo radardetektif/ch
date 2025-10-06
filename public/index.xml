@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Channel Living</title><link>https://channelliving.com/</link><description>Recent content on Channel Living</description><image><title>Channel Living</title><url>https://channelliving.com/images/channel-living-og.jpg</url><link>https://channelliving.com/images/channel-living-og.jpg</link></image><generator>Hugo -- 0.151.0</generator><language>en</language><lastBuildDate>Sun, 05 Oct 2025 21:32:34 +0700</lastBuildDate><atom:link href="https://channelliving.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to Channel Living!</title><link>https://channelliving.com/posts/my-first-post/</link><pubDate>Sun, 05 Oct 2025 21:32:34 +0700</pubDate><guid>https://channelliving.com/posts/my-first-post/</guid><description>First post on our Hugo website with PaperMod theme</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Channel Living</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Channel Living</description>
+    <image>
+      <title>Channel Living</title>
+      <url>http://localhost:1313/images/channel-living-og.jpg</url>
+      <link>http://localhost:1313/images/channel-living-og.jpg</link>
+    </image>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Oct 2025 21:32:34 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Channel Living!</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 05 Oct 2025 21:32:34 +0700</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>First post on our Hugo website with PaperMod theme</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Get in touch with Channel Living - Contact us for inquiries, collaborations, or feedback about our content.</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy-policy/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/privacy-policy/</guid>
+      <description>Privacy Policy for Channel Living - Learn how we collect, use, and protect your personal information.</description>
+    </item>
+    <item>
+      <title>Terms and Conditions</title>
+      <link>http://localhost:1313/terms-and-conditions/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/terms-and-conditions/</guid>
+      <description>Terms and Conditions for Channel Living - Legal terms governing the use of our website and services.</description>
+    </item>
+  </channel>
+</rss>
