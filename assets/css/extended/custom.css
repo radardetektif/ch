@@ -12,12 +12,22 @@
 .nav {
     max-width: calc(var(--main-width) + var(--gap) * 2) !important;
     margin: 0 auto !important;
-    padding: 0 var(--gap) !important;
 }
 
 /* Override logo and menu margin */
 .logo,#menu {
     display: flex;
+}
+
+/* Override first-entry to remove min-height completely */
+.first-entry {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: var(--gap) 0 calc(var(--gap) * 2);
+    /* Explicitly remove min-height */
+    min-height: unset !important;
 }
 
 /* Reduce heading sizes significantly */
