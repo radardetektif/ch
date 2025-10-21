@@ -1,6 +1,6 @@
 baseURL = 'https://channelliving.com'
 languageCode = 'en'
-title = 'Channel Living'
+title = 'Channelliving'
 theme = 'PaperMod'
 
 # Asset configuration for proper CSS loading
@@ -9,10 +9,10 @@ relativeURLs = false
 
 [params]
   env = "production"
-  title = "Channel Living"
+  title = "Channelliving"
   description = "A modern lifestyle and technology blog powered by Hugo and PaperMod theme"
   keywords = ["lifestyle", "technology", "blog", "modern living", "hugo", "papermod"]
-  author = "Channel Living"
+  author = "Channelliving"
   
   # SEO improvements
   images = ["images/channel-living-og.jpg"]
@@ -39,7 +39,7 @@ relativeURLs = false
 
   [params.homeInfoParams]
     Title = "Welcome! 👋"
-    Content = "Welcome to Channel Living - your destination for modern lifestyle, technology insights, and inspiring content."
+    Content = "Welcome to Channelliving - your destination for modern lifestyle, technology insights, and inspiring content."
 
   [[params.socialIcons]]
     name = "github"
