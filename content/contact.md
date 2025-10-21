@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-date: 2024-01-15T10:00:00+07:00
+date: 2025-10-21T10:00:00+07:00
 draft: false
 description: "Get in touch with Channel Living - Contact us for inquiries, collaborations, or feedback about our content."
 keywords: ["contact", "get in touch", "inquiries", "collaboration", "feedback", "channel living"]
