@@ -1,6 +1,6 @@
 ---
 title: "Terms and Conditions"
-date: 2024-01-15T10:00:00+07:00
+date: 2025-10-21T10:00:00+07:00
 draft: false
 description: "Terms and Conditions for Channel Living - Legal terms governing the use of our website and services."
 keywords: ["terms and conditions", "legal terms", "website usage", "user agreement", "channel living"]
@@ -30,7 +30,7 @@ cover:
 # Terms and Conditions
 
 **Effective Date:** January 15, 2024  
-**Last Updated:** January 15, 2024
+**Last Updated:** October 21, 2025
 
 ## Introduction
 
