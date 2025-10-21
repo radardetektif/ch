@@ -15,7 +15,7 @@ relativeURLs = false
   author = "Channelliving"
   
   # SEO improvements
-  images = ["images/channel-living-og.jpg"]
+  images = ["https://raw.githubusercontent.com/radardetektif/ch/refs/heads/main/assets/cdn/channelliving.com.png"]
   DateFormat = "January 2, 2006"
   
   defaultTheme = "auto"
