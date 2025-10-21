@@ -1,3 +1,3 @@
 +++
-title = 'Channel Living'
+title = 'Channelliving'
 +++
