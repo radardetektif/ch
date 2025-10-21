@@ -30,7 +30,7 @@ cover:
 # Privacy Policy
 
 **Effective Date:** January 15, 2024  
-**Last Updated:** January 15, 2024
+**Last Updated:** October 21, 2025
 
 ## Introduction
 
