@@ -1,13 +1,13 @@
 +++
-date = '2025-10-05T21:32:34+07:00'
+date = '2025-10-21T21:32:34+07:00'
 draft = false
-title = 'Welcome to Channel Living!'
+title = 'Welcome to Channelliving!'
 description = 'First post on our Hugo website with PaperMod theme'
 tags = ['hugo', 'papermod', 'blog', 'lifestyle', 'technology']
 categories = ['technology']
 +++
 
-# Welcome to Channel Living! 🎉
+# Welcome to Channelliving! 🎉
 
 This is the first post on our website built using **Hugo** with the **PaperMod** theme. We're excited to share modern lifestyle and technology insights with you.
 
