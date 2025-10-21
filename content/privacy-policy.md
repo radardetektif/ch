@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2024-01-15T10:00:00+07:00
+date: 2025-10-21T10:00:00+07:00
 draft: false
 description: "Privacy Policy for Channel Living - Learn how we collect, use, and protect your personal information."
 keywords: ["privacy policy", "data protection", "personal information", "cookies", "channel living"]
